@@ -5,6 +5,7 @@
 
 **-OBJETIVO:**-DENSENVOLVER EM C# UTILIZANDO .NET FRAMEWORK.
 
+----------------------------
 
 **-IDEA:**-Conducting several C# courses where I'm trying to carry out a project taking advantage of the knowledge, during each course, and also those that are already proposed. Aim to grow in the area, and learn what I can.
 
