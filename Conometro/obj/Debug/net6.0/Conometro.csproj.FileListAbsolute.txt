@@ -1,0 +1,15 @@
+C:\Users\lisandra.gomes\Documents\Est\Conometro\obj\Debug\net6.0\Conometro.csproj.AssemblyReference.cache
+C:\Users\lisandra.gomes\Documents\Est\Conometro\obj\Debug\net6.0\Conometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisandra.gomes\Documents\Est\Conometro\obj\Debug\net6.0\Conometro.AssemblyInfoInputs.cache
+C:\Users\lisandra.gomes\Documents\Est\Conometro\obj\Debug\net6.0\Conometro.AssemblyInfo.cs
+C:\Users\lisandra.gomes\Documents\Est\Conometro\obj\Debug\net6.0\Conometro.csproj.CoreCompileInputs.cache
+C:\Users\lisandra.gomes\Documents\Est\Conometro\bin\Debug\net6.0\Conometro.exe
+C:\Users\lisandra.gomes\Documents\Est\Conometro\bin\Debug\net6.0\Conometro.deps.json
+C:\Users\lisandra.gomes\Documents\Est\Conometro\bin\Debug\net6.0\Conometro.runtimeconfig.json
+C:\Users\lisandra.gomes\Documents\Est\Conometro\bin\Debug\net6.0\Conometro.dll
+C:\Users\lisandra.gomes\Documents\Est\Conometro\bin\Debug\net6.0\ref\Conometro.dll
+C:\Users\lisandra.gomes\Documents\Est\Conometro\bin\Debug\net6.0\Conometro.pdb
+C:\Users\lisandra.gomes\Documents\Est\Conometro\obj\Debug\net6.0\Conometro.dll
+C:\Users\lisandra.gomes\Documents\Est\Conometro\obj\Debug\net6.0\ref\Conometro.dll
+C:\Users\lisandra.gomes\Documents\Est\Conometro\obj\Debug\net6.0\Conometro.pdb
+C:\Users\lisandra.gomes\Documents\Est\Conometro\obj\Debug\net6.0\Conometro.genruntimeconfig.cache
