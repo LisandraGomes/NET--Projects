@@ -29,7 +29,7 @@ namespace TextEditor
         {
             Console.Clear();
             Console.Write("Nome do arquivo:");
-            string caminho = "D:\\.NET\\NET--Projects\\EditorTexto\\Arquivo\\" + Console.ReadLine() + ".txt";
+            string caminho = "C:\Documents" + Console.ReadLine() + ".txt";
             Console.Clear();
             Console.WriteLine("Para voltar ao Menu aperte enter...");
             Thread.Sleep(2000);
