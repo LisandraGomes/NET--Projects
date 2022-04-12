@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lisandra.gomes\\.nuget\\packages\\": {}
+    "C:\\Users\\Lisandra\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lisandra.gomes\\Documents\\Est\\Conometro\\Conometro.csproj",
+      "projectUniqueName": "D:\\.NET\\NET--Projects\\Conometro\\Conometro.csproj",
       "projectName": "Conometro",
-      "projectPath": "C:\\Users\\lisandra.gomes\\Documents\\Est\\Conometro\\Conometro.csproj",
-      "packagesPath": "C:\\Users\\lisandra.gomes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lisandra.gomes\\Documents\\Est\\Conometro\\obj\\",
+      "projectPath": "D:\\.NET\\NET--Projects\\Conometro\\Conometro.csproj",
+      "packagesPath": "C:\\Users\\Lisandra\\.nuget\\packages\\",
+      "outputPath": "D:\\.NET\\NET--Projects\\Conometro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lisandra.gomes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lisandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,10 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://223.223.2.181:8080/guestAuth/app/nuget/v1/FeedService.svc/": {},
-        "http://223.223.2.181:8090/nuget": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/topdownprojetos/_packaging/artefacts-projects/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -63,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

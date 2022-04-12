@@ -1,0 +1,15 @@
+D:\.NET\NET--Projects\EditorTexto\bin\Debug\net6.0\EditorTexto.exe
+D:\.NET\NET--Projects\EditorTexto\bin\Debug\net6.0\EditorTexto.deps.json
+D:\.NET\NET--Projects\EditorTexto\bin\Debug\net6.0\EditorTexto.runtimeconfig.json
+D:\.NET\NET--Projects\EditorTexto\bin\Debug\net6.0\EditorTexto.dll
+D:\.NET\NET--Projects\EditorTexto\bin\Debug\net6.0\EditorTexto.pdb
+D:\.NET\NET--Projects\EditorTexto\obj\Debug\net6.0\EditorTexto.csproj.AssemblyReference.cache
+D:\.NET\NET--Projects\EditorTexto\obj\Debug\net6.0\EditorTexto.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\NET--Projects\EditorTexto\obj\Debug\net6.0\EditorTexto.AssemblyInfoInputs.cache
+D:\.NET\NET--Projects\EditorTexto\obj\Debug\net6.0\EditorTexto.AssemblyInfo.cs
+D:\.NET\NET--Projects\EditorTexto\obj\Debug\net6.0\EditorTexto.csproj.CoreCompileInputs.cache
+D:\.NET\NET--Projects\EditorTexto\obj\Debug\net6.0\EditorTexto.dll
+D:\.NET\NET--Projects\EditorTexto\obj\Debug\net6.0\refint\EditorTexto.dll
+D:\.NET\NET--Projects\EditorTexto\obj\Debug\net6.0\EditorTexto.pdb
+D:\.NET\NET--Projects\EditorTexto\obj\Debug\net6.0\EditorTexto.genruntimeconfig.cache
+D:\.NET\NET--Projects\EditorTexto\obj\Debug\net6.0\ref\EditorTexto.dll
