@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "l77u9svck++/fFCzDOEPzJj7g/zEPSly58u8Uq4kRYE=",
+  "Hash": "LPahpaMWoQwG3x2tO/uEGHZ67E9h+8cm0dG1zcFI91s=",
   "Source": "Contagen",
   "BasePath": "_content/Contagen",
   "Mode": "Default",
@@ -117,6 +117,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\contagen2.png"
+    },
+    {
+      "Identity": "C:\\Users\\lisandra.gomes\\Documents\\Est\\NET--Projects\\Contagen\\Contagen\\wwwroot\\imagens\\tcc2.png",
+      "SourceId": "Contagen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lisandra.gomes\\Documents\\Est\\NET--Projects\\Contagen\\Contagen\\wwwroot\\",
+      "BasePath": "_content/Contagen",
+      "RelativePath": "imagens/tcc2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\tcc2.png"
+    },
+    {
+      "Identity": "C:\\Users\\lisandra.gomes\\Documents\\Est\\NET--Projects\\Contagen\\Contagen\\wwwroot\\imagens\\tccq.png",
+      "SourceId": "Contagen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lisandra.gomes\\Documents\\Est\\NET--Projects\\Contagen\\Contagen\\wwwroot\\",
+      "BasePath": "_content/Contagen",
+      "RelativePath": "imagens/tccq.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\tccq.png"
     },
     {
       "Identity": "C:\\Users\\lisandra.gomes\\Documents\\Est\\NET--Projects\\Contagen\\Contagen\\wwwroot\\js\\site.js",

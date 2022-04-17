@@ -18,7 +18,11 @@ namespace Contagen.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Entrar()
+        {
+            return View();
+        }
+        public IActionResult Ponto()
         {
             return View();
         }
