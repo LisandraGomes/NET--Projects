@@ -1,0 +1,17 @@
+﻿@model UsuarioModel
+
+@{
+    if (Model.Admin)
+        Layout = "_Layout";
+    if (!Model.Admin)
+        Layout = "_Layout - Comum";
+    ViewData["Title"] = "Olá";
+}
+
+<div class="text-center">
+
+    <h2 class="display-4">@ViewData["Title"] + @Model.Nome</h2>
+
+    <a role="button" class="btn btn-success" asp-controller="Usuarios" asp-action="EditarUsuarios" asp-route-id="@Model.Id">Editar Usuario</a>
+
+</div>
