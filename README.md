@@ -15,7 +15,7 @@
 
 *ASP NET CORE MVC*
 
-1. GerenciaControler -> Projeto simples e pessoal, para retornar ao desenvolvimento utilizando ASP, com banco de dados Postgres em conteiner virtual. De gerenciamento de Usuario com a divergencia de Usuario Administrador e Comum, podendo realizar um CRUD.
+1. GerenciaControler -> Projeto simples e pessoal, para retornar ao desenvolvimento utilizando ASP, com banco de dados Postgres online utilizando o Railway. De gerenciamento de Usuario com a divergencia de Usuario Administrador e Comum, podendo realizar um CRUD.
 
 **-OBJETIVO:**-DENSENVOLVER EM C# UTILIZANDO .NET FRAMEWORK ,ASP NET.
 
