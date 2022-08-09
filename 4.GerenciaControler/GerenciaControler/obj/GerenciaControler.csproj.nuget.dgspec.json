@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lisandra.gomes\\Documents\\Est\\Projeto\\GerenciaControler\\GerenciaControler\\GerenciaControler.csproj": {}
+    "C:\\Users\\lisandra.gomes\\Documents\\Est\\NET--Projects\\4.GerenciaControler\\GerenciaControler\\GerenciaControler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lisandra.gomes\\Documents\\Est\\Projeto\\GerenciaControler\\GerenciaControler\\GerenciaControler.csproj": {
+    "C:\\Users\\lisandra.gomes\\Documents\\Est\\NET--Projects\\4.GerenciaControler\\GerenciaControler\\GerenciaControler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lisandra.gomes\\Documents\\Est\\Projeto\\GerenciaControler\\GerenciaControler\\GerenciaControler.csproj",
+        "projectUniqueName": "C:\\Users\\lisandra.gomes\\Documents\\Est\\NET--Projects\\4.GerenciaControler\\GerenciaControler\\GerenciaControler.csproj",
         "projectName": "GerenciaControler",
-        "projectPath": "C:\\Users\\lisandra.gomes\\Documents\\Est\\Projeto\\GerenciaControler\\GerenciaControler\\GerenciaControler.csproj",
+        "projectPath": "C:\\Users\\lisandra.gomes\\Documents\\Est\\NET--Projects\\4.GerenciaControler\\GerenciaControler\\GerenciaControler.csproj",
         "packagesPath": "C:\\Users\\lisandra.gomes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lisandra.gomes\\Documents\\Est\\Projeto\\GerenciaControler\\GerenciaControler\\obj\\",
+        "outputPath": "C:\\Users\\lisandra.gomes\\Documents\\Est\\NET--Projects\\4.GerenciaControler\\GerenciaControler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lisandra.gomes\\AppData\\Roaming\\NuGet\\NuGet.Config",

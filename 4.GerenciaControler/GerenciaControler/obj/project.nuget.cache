@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hg1sjeblzyZjbIuL0GT5w57IeAJJwvvF52QfaczPnqGO3qRlm6oDsj1is/WUFLCGA7tspGD4lizscyCGnB2P0Q==",
+  "dgSpecHash": "tEZI2Fr5ozzQMCfXGK0guDwBo9ErYCayfrl3+KTDWIh9Y+y8iP1+ZUZe1V45HJIPMupBMvvFYewW3UwGnJv66Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lisandra.gomes\\Documents\\Est\\Projeto\\GerenciaControler\\GerenciaControler\\GerenciaControler.csproj",
+  "projectFilePath": "C:\\Users\\lisandra.gomes\\Documents\\Est\\NET--Projects\\4.GerenciaControler\\GerenciaControler\\GerenciaControler.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lisandra.gomes\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lisandra.gomes\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
