@@ -1,0 +1,134 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "API.Aplication/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Api.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/API.Aplication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/API.Aplication.dll": {}
+        }
+      },
+      "Api.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Api.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Api.Domain.dll": {}
+        }
+      },
+      "API.Infra.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Api.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/API.Infra.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/API.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "API.Aplication/1.0.0": {
+      "type": "project",
+      "path": "../API.Aplication/API.Aplication.csproj",
+      "msbuildProject": "../API.Aplication/API.Aplication.csproj"
+    },
+    "Api.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Api.Domain/Api.Domain.csproj",
+      "msbuildProject": "../Api.Domain/Api.Domain.csproj"
+    },
+    "API.Infra.Data/1.0.0": {
+      "type": "project",
+      "path": "../API.Infra.Data/API.Infra.Data.csproj",
+      "msbuildProject": "../API.Infra.Data/API.Infra.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "API.Aplication >= 1.0.0",
+      "API.Infra.Data >= 1.0.0",
+      "Api.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Lisandra\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Lisandra\\Documents\\0-git\\NET--Projects\\5.API\\APIPessoa\\API.Infra.IOC\\API.Infra.IOC.csproj",
+      "projectName": "API.Infra.IOC",
+      "projectPath": "C:\\Users\\Lisandra\\Documents\\0-git\\NET--Projects\\5.API\\APIPessoa\\API.Infra.IOC\\API.Infra.IOC.csproj",
+      "packagesPath": "C:\\Users\\Lisandra\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lisandra\\Documents\\0-git\\NET--Projects\\5.API\\APIPessoa\\API.Infra.IOC\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Lisandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Lisandra\\Documents\\0-git\\NET--Projects\\5.API\\APIPessoa\\API.Aplication\\API.Aplication.csproj": {
+              "projectPath": "C:\\Users\\Lisandra\\Documents\\0-git\\NET--Projects\\5.API\\APIPessoa\\API.Aplication\\API.Aplication.csproj"
+            },
+            "C:\\Users\\Lisandra\\Documents\\0-git\\NET--Projects\\5.API\\APIPessoa\\Api.Domain\\Api.Domain.csproj": {
+              "projectPath": "C:\\Users\\Lisandra\\Documents\\0-git\\NET--Projects\\5.API\\APIPessoa\\Api.Domain\\Api.Domain.csproj"
+            },
+            "C:\\Users\\Lisandra\\Documents\\0-git\\NET--Projects\\5.API\\APIPessoa\\API.Infra.Data\\API.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\Lisandra\\Documents\\0-git\\NET--Projects\\5.API\\APIPessoa\\API.Infra.Data\\API.Infra.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
