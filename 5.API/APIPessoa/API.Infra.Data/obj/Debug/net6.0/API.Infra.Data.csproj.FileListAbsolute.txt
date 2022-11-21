@@ -1,0 +1,15 @@
+C:\Users\Lisandra\Documents\0-git\NET--Projects\5.API\APIPessoa\API.Infra.Data\bin\Debug\net6.0\API.Infra.Data.deps.json
+C:\Users\Lisandra\Documents\0-git\NET--Projects\5.API\APIPessoa\API.Infra.Data\bin\Debug\net6.0\API.Infra.Data.dll
+C:\Users\Lisandra\Documents\0-git\NET--Projects\5.API\APIPessoa\API.Infra.Data\bin\Debug\net6.0\API.Infra.Data.pdb
+C:\Users\Lisandra\Documents\0-git\NET--Projects\5.API\APIPessoa\API.Infra.Data\bin\Debug\net6.0\Api.Domain.dll
+C:\Users\Lisandra\Documents\0-git\NET--Projects\5.API\APIPessoa\API.Infra.Data\bin\Debug\net6.0\Api.Domain.pdb
+C:\Users\Lisandra\Documents\0-git\NET--Projects\5.API\APIPessoa\API.Infra.Data\obj\Debug\net6.0\API.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Lisandra\Documents\0-git\NET--Projects\5.API\APIPessoa\API.Infra.Data\obj\Debug\net6.0\API.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisandra\Documents\0-git\NET--Projects\5.API\APIPessoa\API.Infra.Data\obj\Debug\net6.0\API.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Lisandra\Documents\0-git\NET--Projects\5.API\APIPessoa\API.Infra.Data\obj\Debug\net6.0\API.Infra.Data.AssemblyInfo.cs
+C:\Users\Lisandra\Documents\0-git\NET--Projects\5.API\APIPessoa\API.Infra.Data\obj\Debug\net6.0\API.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lisandra\Documents\0-git\NET--Projects\5.API\APIPessoa\API.Infra.Data\obj\Debug\net6.0\API.Infra.Data.csproj.CopyComplete
+C:\Users\Lisandra\Documents\0-git\NET--Projects\5.API\APIPessoa\API.Infra.Data\obj\Debug\net6.0\API.Infra.Data.dll
+C:\Users\Lisandra\Documents\0-git\NET--Projects\5.API\APIPessoa\API.Infra.Data\obj\Debug\net6.0\refint\API.Infra.Data.dll
+C:\Users\Lisandra\Documents\0-git\NET--Projects\5.API\APIPessoa\API.Infra.Data\obj\Debug\net6.0\API.Infra.Data.pdb
+C:\Users\Lisandra\Documents\0-git\NET--Projects\5.API\APIPessoa\API.Infra.Data\obj\Debug\net6.0\ref\API.Infra.Data.dll
