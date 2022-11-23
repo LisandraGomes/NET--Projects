@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vjKFg2aOyTTCFQpG6iSsW1WDLMGWKkMW0T7gcEt+m0IPbkZ1GMsMMIWfsvVsvX21lVhg1OGIBFLOuoL9ji8mSA==",
+  "dgSpecHash": "xCvqlVjUu85VWH5+LKqVSy1xy2bWbVlYTzOPKSJ+tCwm9iLqBvTMMnmm40jFIXwoulEIk+xIMLH1BqB1KRQLxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lisandra\\Documents\\0-git\\NET--Projects\\5.API\\APIPessoa\\APIPessoa\\APIPessoa.csproj",
+  "projectFilePath": "C:\\Users\\Lisandra\\Documents\\0-git\\DOTNET & C#\\5.API\\APIPessoa\\APIPessoa\\APIPessoa.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Lisandra\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Lisandra\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\Lisandra\\.nuget\\packages\\fluentvalidation\\11.3.0\\fluentvalidation.11.3.0.nupkg.sha512",
-    "C:\\Users\\Lisandra\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lisandra\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Lisandra\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Lisandra\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\Lisandra\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.11\\microsoft.entityframeworkcore.6.0.11.nupkg.sha512",

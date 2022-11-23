@@ -24,6 +24,7 @@ namespace Api.Domain.Entidades
         public Pessoa(string Nome, string Sobrenome, string Telefone, DateTime DataNascimento, string Email, string Senha, string Cpf)
         {
             Validacao(Nome, Sobrenome, Telefone, DataNascimento, Email, Senha, Cpf);
+            Compras = new List<Compra>();
         }
 
         //METODO PARA VALIDAÇÃO EDITAR A PESSOA

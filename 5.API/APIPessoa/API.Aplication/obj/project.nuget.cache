@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lEbnKtHL28MBeg9kUljLgtH5uMf7YAziMlnWUie3w47ka+f9XDQ9EbyGsiMmeXtQYTJCkc966XCY5q2FIXRleA==",
+  "dgSpecHash": "HdfsM+v+Daedk8DECzZ4pnFDeYXr2vSfG78aUVXDJkM4hv+BOdAwcJ96+oFajDFR2l0CEc0T7FApLvWrPlsBBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lisandra\\Documents\\0-git\\NET--Projects\\5.API\\APIPessoa\\API.Aplication\\API.Aplication.csproj",
+  "projectFilePath": "C:\\Users\\Lisandra\\Documents\\0-git\\DOTNET & C#\\5.API\\APIPessoa\\API.Aplication\\API.Aplication.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Lisandra\\.nuget\\packages\\fluentvalidation\\11.3.0\\fluentvalidation.11.3.0.nupkg.sha512"
+    "C:\\Users\\Lisandra\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Lisandra\\.nuget\\packages\\fluentvalidation\\11.3.0\\fluentvalidation.11.3.0.nupkg.sha512",
+    "C:\\Users\\Lisandra\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -18,27 +18,26 @@ namespace Api.Domain.Entidades
         public Pessoa Pessoa { get; set; }
         public Produtos Produtos { get; set; }
 
-        public Compra(int idProduto, int idPessoa, DateTime? data)
+        public Compra(int idProduto, int idPessoa)
         {
-            Validacao(idProduto, idPessoa, data);
+            Validacao(idProduto, idPessoa);
         }
 
-        public Compra(int id,int idProduto, int idPessoa, DateTime? data)
+        public Compra(int id,int idProduto, int idPessoa)
         {
             DomainValidationException.When(idPessoa < 0, "Pessoa deve ser informado!");
             Id = id;
-            Validacao(idProduto, idPessoa, data);
+            Validacao(idProduto, idPessoa);
         }
 
-        private void Validacao(int idProduto, int idPessoa, DateTime? data) 
+        private void Validacao(int idProduto, int idPessoa) 
         {
             DomainValidationException.When(idPessoa < 0, "Pessoa deve ser informado!");
             DomainValidationException.When(idProduto > 0, "Produto deve ser informado!");
-            DomainValidationException.When(!data.HasValue, "Data não pode ser vazia!");
 
             IdPessoa = idPessoa;
             IdProduto = idProduto;
-            Data = data.Value;
+            Data = DateTime.Now;
 
         }
 

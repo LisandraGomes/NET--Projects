@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ap4/H2xtON0ndvkFqfB09OquxYU2HYfJhmEHN8fECOEpjiCjNVGwRaX70pC0lKw2Ph6oYAnb0ROCzj02b37Jsg==",
+  "dgSpecHash": "6/hKBTlfvz+L2/r0c8Ukm/53GwVYMOU9UEiHCg8vMS81xMu5cwrGStes/NOaCRWNr45oftICyQJCIBlYS3RF4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lisandra\\Documents\\0-git\\NET--Projects\\5.API\\APIPessoa\\API.Infra.Data\\API.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\Lisandra\\Documents\\0-git\\DOTNET & C#\\5.API\\APIPessoa\\API.Infra.Data\\API.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lisandra\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Lisandra\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

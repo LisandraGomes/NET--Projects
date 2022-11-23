@@ -25,7 +25,7 @@ namespace Api.Domain.Entidades
         {
             Validation(nome,codigo,qtdDisponivel,imagem,valor);
             Descricao = descricao;
-
+            Compras = new List<Compra>();
         }
 
         //Validação se os dados que estão chegando são válidos
