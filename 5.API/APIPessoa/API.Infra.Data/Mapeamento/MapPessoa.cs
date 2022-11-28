@@ -13,7 +13,7 @@ namespace API.Infra.Data.Mapeamento
     {
         public void Configure(EntityTypeBuilder<Pessoa> builder)
         {
-            builder.ToTable("Pessoa");
+            builder.ToTable("PESSOA");
             builder.HasKey(x => x.Id);
             builder.Property(x => x.Id).HasColumnName("PES_ID_PESSOA").UseIdentityColumn();
             builder.Property(x => x.Nome).HasColumnName("PES_NOME").UseIdentityColumn();
@@ -25,7 +25,7 @@ namespace API.Infra.Data.Mapeamento
             builder.Property(x => x.Email).HasColumnName("PES_EMAIL").UseIdentityColumn();
             builder.Property(x => x.Senha).HasColumnName("PES_SENHA_ATUAL").UseIdentityColumn();
         
-            builder.HasMany(c => c.Compras).WithOne(p => p.Pessoa).HasForeignKey(c => c.IdPessoa);
+            //builder.HasMany(c => c.Compras).WithOne(p => p.Pessoa).HasForeignKey(c => c.IdPessoa);
         }
     }
 }

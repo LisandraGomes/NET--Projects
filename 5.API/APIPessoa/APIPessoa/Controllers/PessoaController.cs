@@ -17,7 +17,11 @@ namespace APIPessoa.Controllers
         [HttpPost]
         public async Task<ActionResult> Post([FromBody] PessoaDto pessoaDto)
         {
-            return Ok(pessoaDto);
+            var result = await _pessoaController.CreateAsync(pessoaDto);
+            if (result.Sucesso)
+                return Ok(pessoaDto);
+
+            return BadRequest(result);
         }
     }
 }

@@ -10,7 +10,7 @@ namespace Api.Domain.Entidades
     public sealed class Pessoa
     {
         public int Id { get; private set; }
-        public string Usuario { get; set; }
+        public string Usuario { get; private set; }
         public string Nome { get; private set; }
         public string Sobrenome { get; private set; }
         public DateTime DataNascimento { get; set; }
@@ -19,20 +19,20 @@ namespace Api.Domain.Entidades
         public string Email { get; set; }
         public string Senha { get; private set; }
 
-        public ICollection<Compra> Compras { get; set; }
+        //public ICollection<Compra> Compras { get; set; }
 
         public Pessoa(string Nome, string Sobrenome, string Telefone, DateTime DataNascimento, string Email, string Senha, string Cpf)
         {
             Validacao(Nome, Sobrenome, Telefone, DataNascimento, Email, Senha, Cpf);
-            Compras = new List<Compra>();
+            //Compras = new List<Compra>();
         }
 
         //METODO PARA VALIDAÇÃO EDITAR A PESSOA
-        public Pessoa(int id,string Usuario, string Nome, string Sobrenome, string Telefone, DateTime DataNascimento, string Email, string Senha, string Cpf) 
+        public Pessoa(int id, string Nome, string Sobrenome, string Telefone, DateTime DataNascimento, string Email, string Senha, string Cpf) 
         {
             DomainValidationException.When(id < 0, "Id de Usuario Inválido!");
-            DomainValidationException.When(string.IsNullOrEmpty(Usuario), "Usuário é Invalido");
-            DomainValidationException.When(Usuario.Equals("1234"), "Usuário não pode ser alterado!");
+            //DomainValidationException.When(string.IsNullOrEmpty(Usuario), "Usuário é Invalido");
+            //DomainValidationException.When(Usuario.Equals("1234"), "Usuário não pode ser alterado!");
 
             Validacao(Nome, Sobrenome, Telefone, DataNascimento, Email, Senha, Cpf);
         }
