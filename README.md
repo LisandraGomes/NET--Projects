@@ -12,7 +12,8 @@ _Fundamentos de C# Balta.io_
 
 _Fundamentos da Orientação a Objetos Balta.io_
 
-Seleção Mão na Massa, parte final do curso, com certificação.
+6. Balta.io - Fundamentos Orientação a Objetos
+   Seleção Mão na Massa, parte final do curso, com certificação. Pequenos trechos de códigos para fixação do assunto falado.
 
 _ASP .NET CORE MVC (.NET 6)_
 
