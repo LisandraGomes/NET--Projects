@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lisandra\\Documents\\0-git\\DOTNET & C#\\6.Balta.io - FOO\\Balta\\Balta.csproj": {}
+    "C:\\Users\\Lisandra\\Documents\\0-git\\DOTNET & C#\\6.Balta.io - Fundamentos Orientação a Objetos\\Balta\\Balta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lisandra\\Documents\\0-git\\DOTNET & C#\\6.Balta.io - FOO\\Balta\\Balta.csproj": {
+    "C:\\Users\\Lisandra\\Documents\\0-git\\DOTNET & C#\\6.Balta.io - Fundamentos Orientação a Objetos\\Balta\\Balta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lisandra\\Documents\\0-git\\DOTNET & C#\\6.Balta.io - FOO\\Balta\\Balta.csproj",
+        "projectUniqueName": "C:\\Users\\Lisandra\\Documents\\0-git\\DOTNET & C#\\6.Balta.io - Fundamentos Orientação a Objetos\\Balta\\Balta.csproj",
         "projectName": "Balta",
-        "projectPath": "C:\\Users\\Lisandra\\Documents\\0-git\\DOTNET & C#\\6.Balta.io - FOO\\Balta\\Balta.csproj",
+        "projectPath": "C:\\Users\\Lisandra\\Documents\\0-git\\DOTNET & C#\\6.Balta.io - Fundamentos Orientação a Objetos\\Balta\\Balta.csproj",
         "packagesPath": "C:\\Users\\Lisandra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lisandra\\Documents\\0-git\\DOTNET & C#\\6.Balta.io - FOO\\Balta\\obj\\",
+        "outputPath": "C:\\Users\\Lisandra\\Documents\\0-git\\DOTNET & C#\\6.Balta.io - Fundamentos Orientação a Objetos\\Balta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lisandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
