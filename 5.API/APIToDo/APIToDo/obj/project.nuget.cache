@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0KAMwEyX/w2BYBCTu9GDqyReWolf/3cL7CIFXOhrxywCDt1gZxK0YQk/s2tvep0TkFXPPlENFFptas81O3OH+w==",
+  "dgSpecHash": "mkdVgYAVBJ+sEmsmX8QHyAZAVUORRJq+I13AJnvNddZqDxkrLJ9sv/9qhqRk15e2QKlWL6+XJJW8rZxypq+OQQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lisandra\\Documents\\0-git\\DOTNET & C#\\5.API\\APIToDo\\APIToDo\\APIToDo.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\Lisandra\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.2\\microsoft.entityframeworkcore.relational.7.0.2.nupkg.sha512",
     "C:\\Users\\Lisandra\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\7.0.2\\microsoft.entityframeworkcore.sqlite.7.0.2.nupkg.sha512",
     "C:\\Users\\Lisandra\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\7.0.2\\microsoft.entityframeworkcore.sqlite.core.7.0.2.nupkg.sha512",
+    "C:\\Users\\Lisandra\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.2\\microsoft.entityframeworkcore.tools.7.0.2.nupkg.sha512",
     "C:\\Users\\Lisandra\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Lisandra\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Lisandra\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
